@@ -1,0 +1,50 @@
+/*header*/
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.memory{
+    display: flex;
+}
+.memory-id{
+    line-height: 10px;
+}
+.memory-class{
+    margin-bottom: 10px;
+}
+.memory-class p{
+    margin-top: 23px;
+    color: rgb(121, 118, 118);
+    margin-left: 20px;
+}
+.memory-class h3{
+    margin-top: 20px;
+    color: rgb(82, 74, 74);
+}
+.memory-class1{
+  display: flex;
+}
+.memory02{
+    margin-top: 5%;
+    margin-left: 35%;
+    border: solid 2px rgb(214, 174, 174);
+}
+/*header*/
+/* section */
+.sect01{
+    display: flex;
+}
+.sect-one{
+    margin-left: 3%;
+}
+.sect-one h3,.sect-one p , .sect-one h6{
+    margin-left: 7%;
+}
+.one-01{
+    margin-left: 4%;
+    width: 100%;
+}
+h6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
