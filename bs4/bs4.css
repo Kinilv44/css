@@ -1,0 +1,19 @@
+.thumbnail{
+    border: solid 1px #ccc; 
+    margin: 0 6px 0 6px;
+}
+.thumbnail a{
+    text-decoration: none;
+}
+.thumbnail:hover{
+    border: solid 1px rgb(58, 54, 54);  
+    text-decoration: none;
+}
+.content{
+display: flex;
+}
+.thumbnail p{
+    text-align: center;
+    font-size: 15px;
+    padding: 0;
+}
